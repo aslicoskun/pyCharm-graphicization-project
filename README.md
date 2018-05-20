@@ -1,4 +1,4 @@
-wit# pyCharm-graphicization-project
+# pyCharm-graphicization-project
 
 We scraping websites of TV programs rating and  convert to 2D graphics
 
